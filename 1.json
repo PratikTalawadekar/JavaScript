@@ -1,0 +1,17 @@
+// key must be in double colon
+
+
+{
+    "id": 91,
+    "Username": "PRATIK",
+    "Mobile": "9998887770",
+    "Email": "Younome@gmail.com"
+}
+
+{
+    "city": "Mumbai",
+    "longitude": 72.89,
+    "temp": 27,
+    "units": "metrics",
+    "active": "true"
+}
